@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-import "examples/klor/keyboard.ncl"
-=======
 let { ColToRowKey, .. } = import "./fak/keyboard.ncl" in
 let { CH552T, .. } = import "./fak/mcus.ncl" in
 
