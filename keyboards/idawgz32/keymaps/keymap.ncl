@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-import "examples/klor/keymap.ncl"
-=======
 let { tap, hold, td, combo, .. } = import "./fak/keycode.ncl" in
 let util = import "./fak/util_functions.ncl" in
 
